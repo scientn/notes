@@ -24,3 +24,4 @@ data/
 models/
 *.pth
 *.ckpt
+labs/w1-shell/note_*.txt
